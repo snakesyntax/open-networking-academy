@@ -8,16 +8,16 @@ The goal is to build a comprehensive, practical reference for students, aspiring
 
 ## What You Will Find
 
-- **Networking Fundamentals** — Ethernet, TCP/IP, OSI, ARP, and network communication.
-- **IP Addressing** — IPv4, IPv6, subnetting, CIDR, and VLSM.
-- **Switching** — VLANs, trunking, STP, EtherChannel, and Layer 2 security.
-- **Routing** — Static routing, OSPF, EIGRP, BGP, and route redistribution.
-- **Network Services** — DHCP, DNS, NAT, NTP, and related technologies.
-- **Cisco Learning Paths** — Structured material aligned with Cisco certification topics.
-- **Advanced Courses** — Deep dives into specific protocols and network technologies.
-- **Hands-on Labs** — Topologies, configuration examples, verification steps, and troubleshooting exercises.
-- **Network Automation** — Python, Ansible, APIs, and infrastructure automation.
-- **Future Learning Tracks** — Linux networking and cybersecurity.
+- **Networking Fundamentals** - Ethernet, TCP/IP, OSI, ARP, and network communication.
+- **IP Addressing** - IPv4, IPv6, subnetting, CIDR, and VLSM.
+- **Switching** - VLANs, trunking, STP, EtherChannel, and Layer 2 security.
+- **Routing** - Static routing, OSPF, EIGRP, BGP, and route redistribution.
+- **Network Services** - DHCP, DNS, NAT, NTP, and related technologies.
+- **Cisco Learning Paths** - Structured material aligned with Cisco certification topics.
+- **Advanced Courses** - Deep dives into specific protocols and network technologies.
+- **Hands-on Labs** - Topologies, configuration examples, verification steps, and troubleshooting exercises.
+- **Network Automation** - Python, Ansible, APIs, and infrastructure automation.
+- **Future Learning Tracks** - Linux networking and cybersecurity.
 
 ## Learning Approach
 
